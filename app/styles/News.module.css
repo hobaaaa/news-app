@@ -1,0 +1,20 @@
+.news_item {
+    display: flex;
+    align-items: flex-start;
+    padding: 10px;
+    margin: 1%;
+    border: 1px solid black;
+    border-radius: 15px;
+    background-color: #A87C7C;
+
+}
+
+.image {
+    width: 100px;
+    height: auto;
+    margin-left: 15px;
+}
+
+.content {
+    flex: 1;
+}
