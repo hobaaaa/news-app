@@ -13,6 +13,9 @@ React: A JavaScript library for building user interfaces.
 CSS Modules: For component-level styling.
 
 Future Improvements
+
 Category Filtering: Allow users to filter news by categories.
+
 Search Functionality: Implement a search bar to find specific news articles.
+
 User Authentication: Add user authentication for personalized news feeds.
